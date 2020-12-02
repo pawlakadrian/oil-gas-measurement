@@ -19,14 +19,23 @@
   .form-group {
     flex-direction: column;
     display: flex;
+    align-items: center;
+    margin: 0 0 1rem;
   }
 
   .form-group:first-child {
     flex-direction: row;
   }
-  
-    input {
-      margin: 0 0 1rem;
-    }
+
+  input {
+    font-size: calc(10px + 2vmin);
+    text-align: center;
+    padding: 3px;
+  }
+
+  input[name="proportion"] {
+    width: 40px;
+    height: 40px;
+  }
 }
 
