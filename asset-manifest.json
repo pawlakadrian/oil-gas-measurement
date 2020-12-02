@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oil-gas-measurement/static/css/main.39ed473f.chunk.css",
+    "main.css": "/oil-gas-measurement/static/css/main.f046103f.chunk.css",
     "main.js": "/oil-gas-measurement/static/js/main.1287f10b.chunk.js",
     "main.js.map": "/oil-gas-measurement/static/js/main.1287f10b.chunk.js.map",
     "runtime-main.js": "/oil-gas-measurement/static/js/runtime-main.6c5d1a82.js",
@@ -10,14 +10,14 @@
     "static/js/3.d1211759.chunk.js": "/oil-gas-measurement/static/js/3.d1211759.chunk.js",
     "static/js/3.d1211759.chunk.js.map": "/oil-gas-measurement/static/js/3.d1211759.chunk.js.map",
     "index.html": "/oil-gas-measurement/index.html",
-    "static/css/main.39ed473f.chunk.css.map": "/oil-gas-measurement/static/css/main.39ed473f.chunk.css.map",
+    "static/css/main.f046103f.chunk.css.map": "/oil-gas-measurement/static/css/main.f046103f.chunk.css.map",
     "static/js/2.5b6dd2ec.chunk.js.LICENSE.txt": "/oil-gas-measurement/static/js/2.5b6dd2ec.chunk.js.LICENSE.txt",
     "static/media/gas-pump.466f1d9d.svg": "/oil-gas-measurement/static/media/gas-pump.466f1d9d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6c5d1a82.js",
     "static/js/2.5b6dd2ec.chunk.js",
-    "static/css/main.39ed473f.chunk.css",
+    "static/css/main.f046103f.chunk.css",
     "static/js/main.1287f10b.chunk.js"
   ]
 }
